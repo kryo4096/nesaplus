@@ -24,12 +24,12 @@ for(let i = 0; i < table.rows.length - 1; i++) {
     sum += grade
 
     //check if grade is "genügend"
-    if(grade>=4){
+    if(grade>=4.0){
       // add points with a multiplier of 1
-      points += Math.round((grade-4)/2)*2*1;
+      points += Math.round((grade-4)*2)/2*1;
     } else {
       // add points with a multiplier of 2
-      points += Math.round((grade-4)/2)*2*2;
+      points += Math.round((grade-4)*2)/2*2;
     }
   }
 }

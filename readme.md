@@ -12,3 +12,5 @@ Da Google für die Veröffentlichung einer Erweiterung 5$ verlangt und ich kein 
 6. Schalte den "Entwicklermodus" ein. (Häkchen oben rechts anklicken)
 7. Klicke oben links auf "Entpackte Erweiterung laden."
 8. Wähle den entpackten Ordner aus.
+
+(Wenn jemand misstrauisch ist, kann er den Source-Code anschauen.)
