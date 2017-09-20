@@ -35,4 +35,4 @@ for(let i = 0; i < table.rows.length - 1; i++) {
 }
 
 // show result
-table.insertRow(table.rows.length).innerHTML = "<td>Pluspunkte: " + points + "<br>Durchschnitt: " + Math.round(sum/n*1000)/1000 + "</td><td></td><td></td><td>Nesa + by Jonas Luther</td>";
+table.insertRow(table.rows.length).innerHTML = "<td>Pluspunkte: " + points + "<br>Durchschnitt: " + Math.round(sum/n*1000)/1000 + "</td><td></td><td></td><td>Nesa+</td>";
