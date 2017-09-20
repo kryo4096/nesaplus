@@ -2,7 +2,7 @@
 Nesa+ ist eine Chrome-Erweiterung die auf Nesa unter dem Tab "Noten" deine Pluspunkte und deinen Gesamtdurchschnitt anzeigt.
 
 # Installation
-Da Google für die Veröffentlichung einer Erweiterung 5$ verlangt und ich keine Lust hatte Geld dafür auszugeben, muss mann diese Erweiterung auf unoffiziellem Weg installieren.
+Da Google für die Veröffentlichung einer Erweiterung 5$ verlangt und ich kein Geld dafür habe, muss man diese Erweiterung auf unoffiziellem Weg installieren.
 
 1. Klicke auf "Clone ore Download"
 2. Klicke auf "Download ZIP"
