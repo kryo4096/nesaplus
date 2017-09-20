@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+
+  "name": "NESA +",
+  "description": "Zeigt Pluspunkte und Durchschnitt aud der 'Noten' Seite an.",
+  "version": "1.0",
+
+  "content_scripts": [
+   {
+     "matches": ["https://kss.nesa-sg.ch/index.php?pageid=21311*"],
+     "js": ["nesa.js"],
+     "run_at": "document_end"
+   }
+ ],
+ "icons": {"64": "icon64.png"},
+
+  "permissions": [
+    "https://kss.nesa-sg.ch/index.php?pageid=21311*"
+  ]
+}
