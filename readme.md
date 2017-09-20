@@ -6,11 +6,11 @@ Da Google für die Veröffentlichung einer Erweiterung 5$ verlangt und ich kein 
 
 1. Klicke auf "Clone or Download"
 2. Klicke auf "Download ZIP"
-3. Entpacke das ZIP
+3. Entpacke das ZIP (Einfach darauf doppelklicken)
 4. Klicke bei Chrome auf das Hauptmenü-Symbol (3 Punkte übereinander, oben rechts)
 5. Klicke auf "Weitere Tools" -> "Erweiterungen"
 6. Schalte den "Entwicklermodus" ein. (Häkchen oben rechts anklicken)
 7. Klicke oben links auf "Entpackte Erweiterung laden."
 8. Wähle den entpackten Ordner aus.
 
-(Wenn jemand misstrauisch ist, kann er den Source-Code anschauen.)
+Es kann eine Meldung kommen, dass "Erweiterungen im Entwicklermodus Schaden anrichten können", meine Erweiterung ist allerdings zu 100% sicher, da sie nur auf Webseiten-Ebene arbeitet, d.h. sie kann nichts machen ausser etwas rein lokal an einer Webseite hinzufügen.
