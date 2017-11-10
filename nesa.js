@@ -35,4 +35,4 @@ for(let i = 0; i < table.rows.length - 1; i++) {
 }
 
 // show result
-table.insertRow(table.rows.length).innerHTML = "<td style=\"border-bottom: 0; padding-top: 2mm;\"><a href='https://github.com/kryo4096/nesaplus'>NesaPlus</a><<i></i></td><td style=\"border-bottom: 0; padding-top: 2mm;\">Pluspunkte: " + points + "</td><td style=\"border-bottom: 0; padding-top: 2mm;\">Durchschnitt: " + Math.round(sum/n*1000)/1000 + "</td><td style=\"border-bottom: 0; padding-top: 2mm;\"> </td><td style=\"border-bottom: 0; padding-top: 2mm;\"> </td>";
+table.insertRow(table.rows.length).innerHTML = "<td style=\"border-bottom: 0; padding-top: 2mm;\"><a href='https://github.com/kryo4096/nesaplus'>NesaPlus</a><i></i></td><td style=\"border-bottom: 0; padding-top: 2mm;\">Pluspunkte: " + points + "</td><td style=\"border-bottom: 0; padding-top: 2mm;\">Durchschnitt: " + Math.round(sum/n*1000)/1000 + "</td><td style=\"border-bottom: 0; padding-top: 2mm;\"> </td><td style=\"border-bottom: 0; padding-top: 2mm;\"> </td>";
