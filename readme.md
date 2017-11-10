@@ -1,7 +1,11 @@
 # Nesa+
-Nesa+ ist eine Chrome-Erweiterung die auf Nesa unter dem Tab "Noten" deine Pluspunkte und deinen Gesamtdurchschnitt anzeigt.
+Nesa+ ist eine Browsererweiterung für Firefox und Chrome die auf Nesa unter dem Tab "Noten" deine Pluspunkte und deinen Gesamtdurchschnitt anzeigt.
 
-# Installation
+# Installation in Firefox
+
+[Hier klicken.](https://addons.mozilla.org/firefox/downloads/file/767037/nesa-1.0-an+fx.xpi)
+
+# Installation in Chrome
 Da Google für die Veröffentlichung einer Erweiterung 5$ verlangt und ich kein Geld dafür habe, muss man diese Erweiterung auf unoffiziellem Weg installieren.
 
 1. Klicke auf "Clone or Download"
