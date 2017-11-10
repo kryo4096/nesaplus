@@ -13,7 +13,7 @@ for(let i = 0; i < table.rows.length - 1; i++) {
 
   // excluding PE and optional courses
   if(table.rows[i].cells[0].innerText.search(/ff|SPO/) != -1) continue;
-
+  if(table.rows[i].cells.length < 2) continue;
   // parse grade
   let grade = parseFloat(table.rows[i].cells[1].innerText);
 
@@ -35,4 +35,4 @@ for(let i = 0; i < table.rows.length - 1; i++) {
 }
 
 // show result
-table.insertRow(table.rows.length).innerHTML = "<td>Pluspunkte: " + points + "<br>Durchschnitt: " + Math.round(sum/n*1000)/1000 + "</td><td></td><td></td><td>Nesa+</td>";
+table.insertRow(table.rows.length).innerHTML = "<td style=\"border-bottom: 0; padding-top: 2mm;\"><b>NesaPlus</b><br><i>by Jonas & Jonas</i></td><td style=\"border-bottom: 0; padding-top: 2mm;\">Pluspunkte: " + points + "</td><td style=\"border-bottom: 0; padding-top: 2mm;\">Durchschnitt: " + Math.round(sum/n*1000)/1000 + "</td><td style=\"border-bottom: 0; padding-top: 2mm;\"> </td><td style=\"border-bottom: 0; padding-top: 2mm;\"> </td>";
