@@ -3,7 +3,7 @@
 
   "name": "NESA +",
   "description": "Zeigt Pluspunkte und Durchschnitt aud der 'Noten' Seite an.",
-  "version": "1.0",
+  "version": "1.0b",
 
   "content_scripts": [
    {
