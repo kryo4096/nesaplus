@@ -25,7 +25,7 @@ for(let i = 0; i < table.rows.length - 1; i++) {
     n++;
     sum += grade
     
-    if(table.rows[i].cells[0].innerText.startsWith("s") {
+    if(table.rows[i].cells[0].innerText.startsWith("s")) {
        // Schwerpunkt/Focus lessons count together
        sSum += grade;
        m++;
